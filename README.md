@@ -1,4 +1,4 @@
-[![MVeimoen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mveimoen&show_icons=true&theme=calm&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![MVeimoen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mveimoen&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 ### Hi there 👋
 
 <!--
